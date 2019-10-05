@@ -1,0 +1,34 @@
+## How to add **Apache Tomcat** into Eclipse
+- Open Eclipse
+- Click **Windows** option at top
+- Click on **Show View** option
+- Click **Others...** option
+- Type **Servers**
+- Select **Servers**
+- Click **Open**
+- At bottom you will see **Servers** tab
+- Click on link **No servers are available. Click this link to create a new server...**
+- Type **Apache**
+- Expand **Apache** option
+- Scroll down and select **Tomcat v9.0 Server** option
+- Click **Next**
+- Click on **Browse..** option
+- Navigate to Apache Tomcat installation directory   
+  Example: **D:\learn-java\server\apache-tomcate-9.0.10**
+- Click on **Installed JRE**
+- Un-ckeck previously selected JRE
+- Click on **Add**
+- Select on **Standard VM** option
+- click **Next**
+- Click on **Directory**
+- Navigate to JDK installation Directory    
+  Example: **C:\Program Files\Java\jdk1.8.0_121**
+- Click **select Folder**
+- Click **Finish**
+- Select JDK option checkbox
+- Click **Apply**
+- Click **Apply and Close**
+- Click on **JRE** dropdown
+- Select **jdk1.8** option
+- Click **Next**
+- Click **Finish**
